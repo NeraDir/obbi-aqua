@@ -1,0 +1,437 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c49896de1e2c494fbcfbc653fd9811b, type: 3}
+  m_Name: CustomData
+  m_EditorClassIdentifier: 
+  topItems:
+  - itemType: 0
+    buyType: 0
+    index: -1
+    price: 0
+    sprite: {fileID: -2073712574, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 0
+    price: 100
+    sprite: {fileID: -750683605, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 0
+    index: 1
+    price: 200
+    sprite: {fileID: 81316037, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 2
+    price: 300
+    sprite: {fileID: 1952560311, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 0
+    index: 3
+    price: 400
+    sprite: {fileID: -1082629538, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 0
+    index: 4
+    price: 600
+    sprite: {fileID: -774131371, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 5
+    price: 700
+    sprite: {fileID: 1470734509, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 0
+    index: 6
+    price: 800
+    sprite: {fileID: 421007817, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 7
+    price: 900
+    sprite: {fileID: 909418505, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 0
+    index: 8
+    price: 900
+    sprite: {fileID: -1523862094, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 9
+    price: 900
+    sprite: {fileID: 1969498622, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 10
+    price: 900
+    sprite: {fileID: -1012660444, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 11
+    price: 900
+    sprite: {fileID: 1037395077, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 12
+    price: 900
+    sprite: {fileID: -2012010533, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 13
+    price: 900
+    sprite: {fileID: 385557735, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 14
+    price: 900
+    sprite: {fileID: 490905250, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 15
+    price: 900
+    sprite: {fileID: -2058554589, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 16
+    price: 900
+    sprite: {fileID: 1602212654, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 17
+    price: 900
+    sprite: {fileID: 1420538376, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 18
+    price: 900
+    sprite: {fileID: -1490908002, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 0
+    buyType: 2
+    index: 19
+    price: 900
+    sprite: {fileID: 1988775669, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  middleItems:
+  - itemType: 1
+    buyType: 2
+    index: 0
+    price: 1000
+    sprite: {fileID: -1498245026, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 0
+    index: 1
+    price: 200
+    sprite: {fileID: 1467940062, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 0
+    index: 2
+    price: 300
+    sprite: {fileID: -1594453646, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 0
+    index: 3
+    price: 400
+    sprite: {fileID: -1389331886, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 4
+    price: 500
+    sprite: {fileID: -911361569, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 0
+    index: 5
+    price: 600
+    sprite: {fileID: -937217010, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 6
+    price: 700
+    sprite: {fileID: 1260077880, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 7
+    price: 800
+    sprite: {fileID: 152976023, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 0
+    index: 8
+    price: 900
+    sprite: {fileID: -868439582, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 9
+    price: 1000
+    sprite: {fileID: -288499926, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 10
+    price: 1000
+    sprite: {fileID: -1070437786, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 11
+    price: 1000
+    sprite: {fileID: -62537987, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 12
+    price: 1000
+    sprite: {fileID: -1916239785, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 13
+    price: 1000
+    sprite: {fileID: -900819184, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 14
+    price: 1000
+    sprite: {fileID: 987194812, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 15
+    price: 1000
+    sprite: {fileID: -582984827, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 16
+    price: 1000
+    sprite: {fileID: 1769980344, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 17
+    price: 1000
+    sprite: {fileID: -329516213, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 18
+    price: 1000
+    sprite: {fileID: 728706553, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 19
+    price: 1000
+    sprite: {fileID: 1862205908, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 20
+    price: 1000
+    sprite: {fileID: -335821309, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 1
+    buyType: 2
+    index: 21
+    price: 1000
+    sprite: {fileID: -28362835, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  bottomItems:
+  - itemType: 2
+    buyType: 0
+    index: 0
+    price: 100
+    sprite: {fileID: -1070341016, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 0
+    index: 1
+    price: 200
+    sprite: {fileID: 518666631, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 0
+    index: 2
+    price: 300
+    sprite: {fileID: 168830464, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 0
+    index: 3
+    price: 400
+    sprite: {fileID: 1479040719, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 2
+    index: 4
+    price: 500
+    sprite: {fileID: -1813084759, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 0
+    index: 5
+    price: 600
+    sprite: {fileID: -1326663975, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 2
+    index: 6
+    price: 700
+    sprite: {fileID: 1690285455, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 2
+    index: 7
+    price: 800
+    sprite: {fileID: 435065436, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 0
+    index: 8
+    price: 900
+    sprite: {fileID: 497283171, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 2
+    index: 9
+    price: 1000
+    sprite: {fileID: -1573285764, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  footItems:
+  - itemType: 3
+    buyType: 0
+    index: 0
+    price: 100
+    sprite: {fileID: -1970494656, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 0
+    index: 1
+    price: 200
+    sprite: {fileID: 482813079, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 0
+    index: 2
+    price: 300
+    sprite: {fileID: 1967748691, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 0
+    index: 3
+    price: 400
+    sprite: {fileID: -345283856, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 2
+    index: 4
+    price: 500
+    sprite: {fileID: -1650410927, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 0
+    index: 5
+    price: 600
+    sprite: {fileID: 951477741, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 2
+    index: 6
+    price: 700
+    sprite: {fileID: -1639510474, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 2
+    index: 7
+    price: 800
+    sprite: {fileID: 1783787669, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 0
+    index: 8
+    price: 900
+    sprite: {fileID: 508806078, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 3
+    buyType: 2
+    index: 9
+    price: 1000
+    sprite: {fileID: -1060507479, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  suitItems:
+  - itemType: 4
+    buyType: 1
+    index: 1
+    price: 1
+    sprite: {fileID: 1948720679, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 1
+    index: 2
+    price: 5
+    sprite: {fileID: 1908292062, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 0
+    index: 3
+    price: 2500
+    sprite: {fileID: 1326627574, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 1
+    index: 4
+    price: 6
+    sprite: {fileID: 1420987328, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 1
+    index: 5
+    price: 5
+    sprite: {fileID: -1036242881, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 1
+    index: 6
+    price: 8
+    sprite: {fileID: 408528440, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 2
+    index: 7
+    price: 700
+    sprite: {fileID: 1103434946, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 1
+    index: 8
+    price: 12
+    sprite: {fileID: 536630253, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 0
+    index: 9
+    price: 900
+    sprite: {fileID: 1907693577, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 1
+    index: 10
+    price: 15
+    sprite: {fileID: 1841722486, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 4
+    buyType: 0
+    index: 11
+    price: 5888
+    sprite: {fileID: -1918091150, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  - itemType: 2
+    buyType: 0
+    index: 12
+    price: 7000
+    sprite: {fileID: 1501080904, guid: d3527614141e5f74ab133d48de242a30, type: 3}
+  petsItems:
+  - itemType: 5
+    buyType: 0
+    index: -1
+    price: 0
+    sprite: {fileID: -2073712574, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  trailItems:
+  - itemType: 6
+    buyType: 0
+    index: -1
+    price: 0
+    sprite: {fileID: -2073712574, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  - itemType: 6
+    buyType: 2
+    index: 1
+    price: 100
+    sprite: {fileID: -871899118, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  - itemType: 6
+    buyType: 0
+    index: 2
+    price: 100
+    sprite: {fileID: 262540194, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  - itemType: 6
+    buyType: 0
+    index: 3
+    price: 350
+    sprite: {fileID: -1067122795, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  - itemType: 6
+    buyType: 0
+    index: 4
+    price: 550
+    sprite: {fileID: 822969267, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  - itemType: 6
+    buyType: 0
+    index: 5
+    price: 750
+    sprite: {fileID: 2118469953, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}
+  wingsItems:
+  - itemType: 7
+    buyType: 0
+    index: -1
+    price: 0
+    sprite: {fileID: -2073712574, guid: 9b253e782d2338345b157acdf59cfdc6, type: 3}

@@ -1,0 +1,23 @@
+{
+    "boughtItemsJson": "{\"Top0\":0,\"Middle0\":0,\"Bottom0\":0,\"Suit9\":9,\"Foot0\":0,\"Top-1\":-1,\"Top10\":10,\"Top3\":3,\"Middle8\":8,\"Foot8\":8,\"Bottom12\":12,\"Middle14\":14,\"Suit7\":7}",
+    "equipedItemsJson": "{\"Suit\":7,\"Middle\":0,\"Bottom\":0,\"Foot\":0,\"Top\":3,\"Pets\":0,\"Trail\":0,\"Wings\":0}",
+    "LanguageCode": "",
+    "MusicVolume": 0.05721382796764374,
+    "SoundVolume": 0.09916532784700394,
+    "Sensivity": 3.0,
+    "MusicMute": true,
+    "coins": 7443,
+    "diamonds": 1,
+    "weekIndex": 1,
+    "dayIndex": 4,
+    "lastDailyClaim": 1745662687538,
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 84
+}
